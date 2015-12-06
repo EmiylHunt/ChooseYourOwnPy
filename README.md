@@ -1,2 +1,2 @@
 # ChooseYourOwnPy
-An experimental take on intereactive story telling using Python. Inspired by Choose Your Own Adventure and Choice of Games.
+Canceled Indefinitely . Was going to do this for a project, but chose to create PymonCreatureGenerator instead. 
